@@ -1,0 +1,16 @@
+{
+ "dataset": "group_regulation-w4",
+ "hyperedges": 21867,
+ "clique_triangles": 84,
+ "dowker_triangles": 84,
+ "phantom": 0,
+ "bonferroni_alpha": 0.0005952380952380953,
+ "dowker_pos_sig": 3,
+ "dowker_neg_sig": 19,
+ "phantom_neg_sig": 0,
+ "phantom_expected_ge1": 0,
+ "phantom_expected_sum": 0.0,
+ "dowker_obs_sum": 39661.0,
+ "dowker_expected_sum": 40796.085623895684,
+ "seconds": 0.0
+}

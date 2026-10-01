@@ -1,0 +1,16 @@
+{
+ "dataset": "threads-matheducators",
+ "hyperedges": 3572,
+ "clique_triangles": 236065,
+ "dowker_triangles": 126612,
+ "phantom": 109453,
+ "bonferroni_alpha": 2.118060703619766e-07,
+ "dowker_pos_sig": 0,
+ "dowker_neg_sig": 0,
+ "phantom_neg_sig": 0,
+ "phantom_expected_ge1": 402,
+ "phantom_expected_sum": 23723.747686439783,
+ "dowker_obs_sum": 128713.0,
+ "dowker_expected_sum": 97254.78898896072,
+ "seconds": 54.7
+}

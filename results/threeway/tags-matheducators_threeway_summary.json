@@ -1,0 +1,16 @@
+{
+ "dataset": "tags-matheducators",
+ "hyperedges": 3157,
+ "clique_triangles": 23152,
+ "dowker_triangles": 4419,
+ "phantom": 18733,
+ "bonferroni_alpha": 2.1596406357982034e-06,
+ "dowker_pos_sig": 1,
+ "dowker_neg_sig": 0,
+ "phantom_neg_sig": 0,
+ "phantom_expected_ge1": 154,
+ "phantom_expected_sum": 2865.6067320873776,
+ "dowker_obs_sum": 5578.0,
+ "dowker_expected_sum": 2975.060159780619,
+ "seconds": 4.4
+}

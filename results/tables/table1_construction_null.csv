@@ -1,0 +1,7 @@
+dataset,V,E,tri_clique,tri_dowker,phantom_rate,phantom_rate_null,max_b1_clique,max_b1_dowker,max_b1_dowker_null,z_dowker,z_clique,kernel_dim,clique_earlier,h1_classes,null_N
+tags-matheducators,227,3309,23152,4419,0.809,0.869,3,680,1022.1,-13.4,1.4,522,1015,3083,200
+threads-matheducators,3796,34583,236065,126612,0.464,0.534,49,2012,2430.6,-11.6,-0.5,1908,2710,30813,200
+tags-academia,470,18676,374097,43778,0.883,0.919,5,4069,7903.7,-53.4,15.0,1443,8661,18207,200
+tags-physics,901,76455,3129959,279545,0.911,0.955,19,10951,56631.6,-270.1,135.2,1970,39456,75555,200
+group\_regulation ($w{=}3$),9,36,84,84,0.0,0.001,0,11,10.5,0.9,n/a,0,28,28,200
+human\_long ($w{=}3$),9,36,84,67,0.202,0.015,0,10,27.1,-22.4,n/a,0,28,28,200

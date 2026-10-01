@@ -1,0 +1,3 @@
+dataset,pairs,one_way,ratio_ge2,ratio_ge3,ratio_ge5,median_ratio,antisym_share
+group_regulation,36,1,0.685714,0.514286,0.4,3.246275,0.661628
+human_long,36,0,0.416667,0.277778,0.138889,1.893332,0.546701

@@ -1,0 +1,7 @@
+dataset,clique_triangles,dowker_triangles,OE_all,OE_dowker,pos_sig,neg_sig,phantom_expected_triple_events
+tags-matheducators,23152,4419,0.96,1.87,1,0,2865.6
+threads-matheducators,236065,126612,1.06,1.32,0,0,23723.7
+tags-academia,374097,43778,0.81,1.18,10,99,33628.4
+tags-physics,3129959,279545,0.69,0.85,267,4794,245824.5
+group\_regulation ($w{=}3$),84,84,0.87,0.87,0,27,0.0
+human\_long ($w{=}3$),84,67,0.97,0.97,11,4,3.9

@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper."
+title: "Beyond the Clique: Comparing Clique and Dowker Complexes for Co-occurrence Data in Learning Analytics"
+authors:
+  - family-names: Yasutake
+    given-names: Koichi
+    affiliation: "Hiroshima University"
+  - family-names: Tsuji
+    given-names: Wakana
+    affiliation: "University of Toronto"
+  - family-names: Inoue
+    given-names: Hitoshi
+    affiliation: "Nakamura Gakuen University"
+license: MIT
+repository-code: "https://github.com/igu-lab/beyond-the-clique"

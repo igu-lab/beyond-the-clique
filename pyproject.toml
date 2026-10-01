@@ -1,0 +1,7 @@
+[project]
+name = "beyond-the-clique"
+version = "1.0.0"
+description = "Clique vs Dowker complexes for co-occurrence data in learning analytics (code for the paper)"
+license = "MIT"
+requires-python = ">=3.10"
+dependencies = ["numpy", "pandas", "matplotlib", "seaborn"]

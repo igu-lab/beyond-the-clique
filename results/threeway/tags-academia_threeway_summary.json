@@ -1,0 +1,16 @@
+{
+ "dataset": "tags-academia",
+ "hyperedges": 39019,
+ "clique_triangles": 374097,
+ "dowker_triangles": 43778,
+ "phantom": 330319,
+ "bonferroni_alpha": 1.3365517499472062e-07,
+ "dowker_pos_sig": 10,
+ "dowker_neg_sig": 96,
+ "phantom_neg_sig": 3,
+ "phantom_expected_ge1": 3624,
+ "phantom_expected_sum": 33628.41278485542,
+ "dowker_obs_sum": 86438.0,
+ "dowker_expected_sum": 73355.48272479232,
+ "seconds": 55.1
+}

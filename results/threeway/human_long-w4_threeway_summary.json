@@ -1,0 +1,16 @@
+{
+ "dataset": "human_long-w4",
+ "hyperedges": 9530,
+ "clique_triangles": 84,
+ "dowker_triangles": 79,
+ "phantom": 5,
+ "bonferroni_alpha": 0.0005952380952380953,
+ "dowker_pos_sig": 28,
+ "dowker_neg_sig": 5,
+ "phantom_neg_sig": 0,
+ "phantom_expected_ge1": 1,
+ "phantom_expected_sum": 4.254002094747931,
+ "dowker_obs_sum": 2735.0,
+ "dowker_expected_sum": 2506.685598979134,
+ "seconds": 0.0
+}
