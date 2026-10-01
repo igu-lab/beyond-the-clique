@@ -1,0 +1,31 @@
+{
+    "upload_type": "software",
+    "title": "Beyond the Clique: Comparing Clique and Dowker Complexes for Co-occurrence Data in Learning Analytics (code)",
+    "description": "Code, scripts and results that regenerate every figure and table of the paper. Compares clique and Dowker complexes on four Stack Exchange data sets and on the example data of the R packages tna and Nestimate.",
+    "creators": [
+	{
+	    "name": "Yasutake, Koichi",
+	    "affiliation": "Hiroshima University",
+	    "orcid": "0009-0008-8240-0775"
+	},
+	{
+	    "name": "Tsuji, Wakana",
+	    "affiliation": "University of Toronto",
+	    "orcid": "0000-0002-4148-1125"
+	},
+	{
+	    "name": "Inoue, Hitoshi",
+	    "affiliation": "Nakamura Gakuen University",
+	    "orcid": "0000-0002-2092-3975"
+	}
+    ],
+    "license": "MIT",
+    "keywords":
+    [
+	"learning analytics", "topological data analysis", "persistent homology", "Dowker complex", "clique complex", "higher-order interactions"
+    ],
+    "communities":
+    [
+	{"identifier": "igu-lab"}
+    ]
+}
